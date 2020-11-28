@@ -3,3 +3,8 @@
     display: flex;
     background-color: black;
 }
+
+.header > img {
+    object-fit: contain;
+    height: 80px;
+}
