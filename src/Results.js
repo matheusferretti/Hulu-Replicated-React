@@ -2,6 +2,7 @@ import { MovieSharp } from '@material-ui/icons'
 import React, {useState, useEffect} from 'react'
 import "./Results.css"
 import VideoCard from "./VideoCard"
+import axios from "./axios";
 
 function Results() {
 
@@ -9,8 +10,10 @@ function Results() {
 
     useEffect(() => {
         async function fetchData() {
-
+            const request = await axios.get()
         }
+
+        fetchData();
     }, [])
 
     return (
