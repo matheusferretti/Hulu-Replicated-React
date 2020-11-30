@@ -14,21 +14,27 @@ function Header() {
             <div className="header__icons">
                 <div className="header__icon">
                     <HomeIcon />
+                    <p>Home</p>
                 </div>
                 <div className="header__icon">
                     <FlashOnIcon />
+                    <p>Trending</p>
                 </div>
                 <div className="header__icon">
                     <LiveTvIcon />
+                    <p>Verified</p>
                 </div>
                 <div className="header__icon">
                     <VideoLibraryIcon />
+                    <p>Collections</p>
                 </div>
                 <div className="header__icon">
                     <SearchIcon />
+                    <p>Search</p>
                 </div>
                 <div className="header__icon">
                     <PersonOutlineIcon />
+                    <p>Account</p>
                 </div>
             </div>
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.suplari.com%2Fwp-content%2Fuploads%2F2019%2F09%2Fhulu-logo-white.png&f=1&nofb=1" alt=""></img>
