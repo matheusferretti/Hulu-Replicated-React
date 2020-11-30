@@ -19,6 +19,10 @@
     margin-right: auto;
 }
 
+.header__icon:hover > p {
+    display: inline;
+}
+
 .header__icon > p {
     display: none;
     text-transform: uppercase;
