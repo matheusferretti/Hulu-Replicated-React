@@ -19,6 +19,11 @@
     margin-right: auto;
 }
 
+.header__icon > p {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
 .header__icon {
     display: flex;
     flex-direction: column;
