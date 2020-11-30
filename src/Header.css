@@ -19,7 +19,7 @@
     margin-right: auto;
 }
 
-.header__icon--active > p{
+.header__icon--active > p {
     display: inline-flex !important;
 }
 
