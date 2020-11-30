@@ -1,5 +1,5 @@
 import { MovieSharp } from '@material-ui/icons'
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import "./Results.css"
 import VideoCard from "./VideoCard"
 
@@ -9,7 +9,7 @@ function Results() {
 
     useEffect(() => {
         async function fetchData() {
-            
+
         }
     }, [])
 
