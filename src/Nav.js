@@ -14,7 +14,6 @@ function Nav() {
             <h2>Western</h2>
             <h2>Animation</h2>
             <h2>Movie</h2>
-            <h2>Western</h2>
         </div>
     )
 }
