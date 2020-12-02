@@ -11,7 +11,8 @@ function Results() {
     useEffect(() => {
         async function fetchData() {
             const request = await axios.get(requests.fetchActionMovies);
-            console.log(request);
+            setMovies(request.data.results);
+            return request;
         }
 
         fetchData();
