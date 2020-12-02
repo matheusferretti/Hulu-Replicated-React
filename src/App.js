@@ -14,7 +14,7 @@ function App() {
 
       <Nav />
       
-      <Results />
+      <Results selectedOption={selectedOption} />
     </div>
   );
 }
