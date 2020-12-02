@@ -8,7 +8,7 @@ This HULU replica was only possible thanks to React (once again) and the great T
 
 <p align="center"><img src="https://user-images.githubusercontent.com/63252585/100933052-c21a5880-34ba-11eb-837f-f3b8e7f9efd6.gif" /></p>
 
-You can also pick which types of movies you feel like watching today 😀
+You can also pick which types of movies you feel like watching today 🤴
 
 <p align="center"><img src="https://user-images.githubusercontent.com/63252585/100933513-761be380-34bb-11eb-8aef-b3d55a909fe4.gif"/><p>
 
