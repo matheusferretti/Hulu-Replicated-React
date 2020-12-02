@@ -2,7 +2,7 @@
 
 <p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcordcuttersnews.com%2Fwp-content%2Fuploads%2F2019%2F09%2FHulu-New-Logo-Rec.png&f=1&nofb=1" /></p>
 
-## Hello again!! 
+## Here's to the movie streaming fans 🤩 
 
 This HULU replica was only possible thanks to React (once again) and the great TMDB database. Using TMDB, I was able to link all movies/files to respective movie genres, here's the outcome:
 
