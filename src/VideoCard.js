@@ -11,7 +11,7 @@ function VideoCard({movie}) {
             <img src={`${base_url}${movie.backdrop_path || movie.poster_path}`} alt="movie poster" />
             <TextTruncate line={2} element="p" truncateText="..." text={movie.overview}/>
             <h2>{movie.title || movie.original_name}</h2>
-            <p>
+            <p className="videoCard_stats">
                 {movie.media_type && `${movie.media_type} •`}
                 {movie.release_date || movie.first_air_date} •
                 <ThumbUpSharp />{movie.vote_count}</p>
