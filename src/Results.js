@@ -16,12 +16,12 @@ function Results({ selectedOption}) {
         }
 
         fetchData();
-    }, [])
+    }, [selectedOption])
 
     return (
         <div className="results">
             {movies.map((movie) => (
-            <VideoCard movie={movie} />
+            <VideoCard key={movie.id} movie={movie} />
             ))}
         </div>
     );
