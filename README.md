@@ -1,6 +1,6 @@
 # HULU Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcordcuttersnews.com%2Fwp-content%2Fuploads%2F2019%2F09%2FHulu-New-Logo-Rec.png&f=1&nofb=1" /></p>
 
 ## Available Scripts
 
