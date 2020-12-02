@@ -6,6 +6,8 @@
 
 This HULU replica was only possible thanks to React (once again) and the great TMDB database. Using TMDB, I was able to link all movies/files to respective movie genres, here's the outcome:
 
+<p><img src="https://user-images.githubusercontent.com/63252585/100933052-c21a5880-34ba-11eb-837f-f3b8e7f9efd6.gif" /></p>
+
 In the project directory, you can run:
 
 ### `npm start`
