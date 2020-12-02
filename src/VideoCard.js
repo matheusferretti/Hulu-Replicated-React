@@ -1,5 +1,6 @@
 import React from 'react'
 import "./VideoCard.css"
+import TextTruncate from "react-text-truncate";
 
 const base_url = "https://image.tmdb.org/t/p/original/"; 
 
