@@ -5,6 +5,9 @@ import Nav from "./Nav";
 import Results from "./Results";
 
 function App() {
+
+  const [selectedOption, setSelectedOption] = useState("");
+
   return (
     <div className="App">
       <Header />

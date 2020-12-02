@@ -10,7 +10,7 @@ function Results({ selectedOption}) {
 
     useEffect(() => {
         async function fetchData() {
-            const request = await axios.get(requests.fetchActionMovies);
+            const request = await axios.get(selectedOption);
             setMovies(request.data.results);
             return request;
         }
