@@ -10,7 +10,7 @@ This HULU replica was only possible thanks to React (once again) and the great T
 
 You can also pick which types of movies you feel like watching today 😀
 
-<p align="center"><img src=""/><p>
+<p align="center"><img src="https://user-images.githubusercontent.com/63252585/100933513-761be380-34bb-11eb-8aef-b3d55a909fe4.gif"/><p>
 
 In the project directory, you can run:
 
